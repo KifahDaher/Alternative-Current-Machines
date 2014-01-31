@@ -1,7 +1,7 @@
 Alt-Alternative-Current-Machines
 ================================
 
-    This project is focuse on analyzing two types of electric machines: the three-phase Symmetrical Induction machine
+This project is focuse on analyzing two types of electric machines: the three-phase Symmetrical Induction machine
 and the Synchronous machine. The symmetrical induction machine although known as induction machine usually 
 converts electric power to mechanical work, thus the name induction motor. The synchronous machine often is used 
 to convert mechanical power into electrical so it is a synchronous generator.
