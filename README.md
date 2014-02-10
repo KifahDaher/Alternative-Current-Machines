@@ -1,4 +1,4 @@
-Alt-Alternative-Current-Machines
+Alternative Current Machines
 ================================
 
 This project is focuse on analyzing two types of electric machines: the three-phase Symmetrical Induction machine
@@ -10,6 +10,4 @@ This project is divided into three major parts; the first part is the dynamic an
 motor with different scenarios to better observe and interpret the behavior of the machine. The second part investigates
 a three-phase synchronous generator where different scenarios are done in order to analyze the performance of the machine 
 under various scenarios. The third part consists of the combined model; a synchronous generator feeding an induction motor and different study cases are manipulated to examine the overall system.
-
-Read the full report [here](https://github.com/KifahDaher/Alternative-Current-Machines/Induction Motor-Synchronous Generator.pdf)
 
